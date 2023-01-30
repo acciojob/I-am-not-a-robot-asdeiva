@@ -76,3 +76,4 @@ function resetCaptcha() {
     click1 = 0;
     click2 = 0;
     flag = false;
+}
